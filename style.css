@@ -1,0 +1,29 @@
+.btn{
+    border-radius: 12%;
+}
+.c1 {
+    height: 100px;
+    /* width: 100px; */
+    
+}
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    
+}
+
+    
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.card-title{
+    color: rgb(14, 91, 235);
+}
